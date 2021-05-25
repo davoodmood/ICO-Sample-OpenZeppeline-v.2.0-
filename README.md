@@ -13,7 +13,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/davoodmood/ICO-Sample-OpenZeppeline-v.2.0-">
-    <img src="images/logo.png" alt="Logo" width="250" height="330">
+    <img src="images/logo.png" alt="Logo" width="300" height="173">
   </a>
 
   <h3 align="center">ICO Sample using OpenZeppeline 2</h3>
